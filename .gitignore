@@ -1,4 +1,5 @@
 # Ignore virtualenv and temp files
+venv/
 .venv/
 .env
 *.so
