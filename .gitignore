@@ -1,3 +1,7 @@
+# Ignore virtualenv and temp files
 .venv/
 .env
+*.so
 __pycache__/
+*.pyc
+*.log
