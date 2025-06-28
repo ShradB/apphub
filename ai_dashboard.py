@@ -1,7 +1,7 @@
 import streamlit as st
 import requests
 
-st.set_page_config(page_title="Sharad's AI App Hub", page_icon="🧠")
+st.set_page_config(page_title="Sharad's AI App Hub", page_icon="🧠" )
 st.title("🧠 Sharad's AI App Dashboard")
 st.write("Monitor and launch your AI projects:")
 
