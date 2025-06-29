@@ -66,9 +66,9 @@ st.markdown("<p class='subtitle'>Explore my growing toolkit of intelligent appli
 
 # --- App List ---
 apps = {
-    "💬 Simple Chatbot": "https://qa-chatbot.drive-tech-ai.com",
-    "🧠 Q&A Assistant": "https://qa.sharad.ai",
-    "📊 Data Explorer": "https://data.sharad.ai"
+    "🤖 Q&A Chatbot": "https://qa-chatbot.drive-tech-ai.com",
+    "🧠 Essay Writer": "https://qa.sharad.ai",
+    "📊 PDF Analyser": "https://data.sharad.ai"
 }
 
 def check_status(url):
